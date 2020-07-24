@@ -2,7 +2,7 @@
 
 
 Mi nombre es Felipe Morales, vivo en Concepción y soy muy apacionado a la tecnologia!
-<br> Me titule en el instituto profesional Virginio Gomez, en 2016, y actualmente trabajo en un centro multidiciplinario de una universidad en Concepción.
+<br> Me titule en el instituto profesional Virginio Gomez, en 2016, y actualmente trabajo en un centro multidiciplinario de una universidad en Concepción
 <br>donde mayormente he programado en Javascript.
 
 ### :gear: Mis experiencias en lenguajes de programación son:
